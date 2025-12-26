@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Crydolatry Wiki",
-    pageTitleSuffix: "",
+    pageTitle: "Zelmana's\nGarden",
+    pageTitleSuffix: " within Zelm's Garden.",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        body: "Inter",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -45,7 +45,7 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
+          secondary: "#045c33",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",

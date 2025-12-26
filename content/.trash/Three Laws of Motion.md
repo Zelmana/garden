@@ -1,1 +1,0 @@
-The Three Laws of Motion are [Inertia]
