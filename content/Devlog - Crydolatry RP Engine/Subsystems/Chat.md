@@ -1,5 +1,5 @@
-#gamedev #subsystem 
 
+---
 
 **UI -> PlayerController -> Server's ChatManager Logic Control -> Valid Recipients -> Player's Local Chat Log -> UI Rebuild**
 
@@ -89,3 +89,6 @@ SenderName, Message, Channel, OriginLocation, SenderPlayId, Timestamp, bFromServ
 
 ST_ChannelConfig/ (Struct)
 HeardRadius, Color, Icon, Flags (Spectator).
+
+
+#gamedev #subsystem 

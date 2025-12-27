@@ -3,7 +3,6 @@ title: Roleplay Engines vs RPGs
 folderOrder:
 noteOrder: "1"
 ---
-#roleplay #rpg #rpeng #gamedev #sapling
 
 # Roleplaying in a Game as opposed to a Roleplaying Engine
 
@@ -26,3 +25,5 @@ An RP Engine puts gameplay loops that enhance the "roleplayability" of the game 
 That's not to say that a RP Eng isn't a game, or doesn't have game mechanics, but many "game" functions might take a backseat to roleplay. If primary roleplay specific mechanics are lacking, they would be addressed by the devs to attempt to improve the RP Quality of Life. 
 
 Decisions in the game development process should prioritize "does this enhance or further the occurrence of roleplay, and or the quality of roleplay?"
+
+#roleplay #rpg #rpeng #gamedev #sapling
