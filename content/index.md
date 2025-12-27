@@ -27,12 +27,11 @@ As such, this garden will have a breadth of topics, but in some seasons may focu
 
 # What's a Digital Garden?
 
-Digital
+**Digital**
 Imagine there is a journal with infinitely expanding pages. Instead of writing a log of the day's events, you could designate pages, or sections of pages, to specific topics! Now, imagine that those pages are publicly available on the internet for other people to read, updated in real time. Only digital media has this ability of instant access and potential depth.
 
-Garden
+**Garden**
 With the technological capability of a knowledgebase described above, there should be a method of maintenance beyond categorization. This is where tagging can come into play. Similar to an agile framework, the "Garden" aspect of Digital Gardening is a reference to the scale of notes or ideas.
-
 
 | Stage       | Purpose                                                               |
 | ----------- | --------------------------------------------------------------------- |
@@ -40,9 +39,6 @@ With the technological capability of a knowledgebase described above, there shou
 | **Sprout**  | Some organization of thought has happened, details begin to emerge    |
 | **Sapling** | The topic has been cleaned up, and some consideration has taken place |
 | **Tree**    | The ideas are well-developed, curated, and retouched.                 |
+
+
 Even though something may be a "tree", it is still always up for changes. Hardly anything here will be marked permanently finished.
-
-
-
----
-Test addition for git.
