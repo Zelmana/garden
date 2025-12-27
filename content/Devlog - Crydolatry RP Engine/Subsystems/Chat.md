@@ -1,9 +1,8 @@
-
+---
+title: Chat Subsystem
 ---
 
 UI -> PlayerController -> Server's ChatManager Logic Control -> Valid Recipients -> Player's Local Chat Log -> UI Rebuild
-
----
 
 ## Chat Manager
 The Chat Manager is a server authoritative actor that handles incoming messages, chat rules, and math for the chat system. It is authoritative in the sense that it then relays whether or not a local player should "hear" chat messages *before* passing them to the client that should hear them.
