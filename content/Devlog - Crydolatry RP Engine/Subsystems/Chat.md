@@ -1,7 +1,7 @@
 
 ---
 
-**UI -> PlayerController -> Server's ChatManager Logic Control -> Valid Recipients -> Player's Local Chat Log -> UI Rebuild**
+UI -> PlayerController -> Server's ChatManager Logic Control -> Valid Recipients -> Player's Local Chat Log -> UI Rebuild
 
 ---
 
