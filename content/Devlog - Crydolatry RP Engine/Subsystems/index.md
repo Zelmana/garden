@@ -1,0 +1,1 @@
+Within the RPeng there is the idea of emergent gameplay. This is not possible unless there are subsystems that interact with one another, allowing for player creativity. Due to that nature things get complicated. I've documented my current progress on subsystem design, and each have their own page, shown below or in the explorer.
